@@ -62,7 +62,7 @@ const thayQuanAo=(id,type)=>{
     <div className="col-sm-12">
       <div className="card">
         <div className="text-center">
-          <img src="/public/images/cybersoft.png" alt="Card image" />
+          <img src="../public/images/cybersoft.png" alt="Card image" />
         </div>
         <div className="card-body">
           <h4 className="card-title text-center">
